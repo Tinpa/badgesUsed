@@ -1,8 +1,5 @@
 # badgesList
-**目录**
 
-
-[TOC]
 
 ## GitHub
 
