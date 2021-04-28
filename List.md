@@ -8,9 +8,9 @@
 ## Languages
 
 
-* [![Java](https://img.shields.io/badge/language-Java-b87100.svg)](https://www.oracle.com/java/) Java<br> 
+* [![Java](https://img.shields.io/badge/language-Java-b07219.svg)](https://www.oracle.com/java/) Java<br> 
 
-* [![HTML](https://img.shields.io/badge/language-HTML-f33900.svg)](https://www.w3.org/html/) HTML<br> 
+* [![HTML](https://img.shields.io/badge/language-HTML-e34c26.svg)](https://www.w3.org/html/) HTML<br> 
 
 * [![BBCode](https://img.shields.io/badge/language-BBCode-2287d6.svg)](https://www.bbcode.org/) BBCode<br>
 
@@ -52,11 +52,11 @@ GitHub:<br>
 <br>
 
 Java:<br>
-`[![Java](https://img.shields.io/badge/language-Java-b87100.svg)](https://www.oracle.com/java/)<br>`<br>
+`[![Java](https://img.shields.io/badge/language-Java-b07219.svg)](https://www.oracle.com/java/)<br>`<br>
 <br>
 
 HTML:<br>
-`[![HTML](https://img.shields.io/badge/language-HTML-f33900.svg)](https://www.w3.org/html/)<br>`<br>
+`[![HTML](https://img.shields.io/badge/language-HTML-e34c26.svg)](https://www.w3.org/html/)<br>`<br>
 <br>
 
 BBCode:<br>
