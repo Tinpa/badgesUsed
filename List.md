@@ -8,9 +8,9 @@
 ## Languages
 
 
-* [![Java](https://img.shields.io/badge/language-Java-FC9147.svg)](https://www.oracle.com/java/) Java<br> 
+* [![Java](https://img.shields.io/badge/language-Java-b87100.svg)](https://www.oracle.com/java/) Java<br> 
 
-* [![HTML](https://img.shields.io/badge/language-HTML-red.svg)](https://www.w3.org/html/) HTML<br> 
+* [![HTML](https://img.shields.io/badge/language-HTML-f33900.svg)](https://www.w3.org/html/) HTML<br> 
 
 * [![BBCode](https://img.shields.io/badge/language-BBCode-2287d6.svg)](https://www.bbcode.org/) BBCode<br>
 
@@ -32,7 +32,7 @@
 * ......
 
 ## Others
-* [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)<br>
+* [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=6f3d1e)](https://github.com/trekhleb/state-of-the-art-shitcode)<br>
 
 <br>
 <br>
@@ -52,11 +52,11 @@ GitHub:<br>
 <br>
 
 Java:<br>
-`[![Java](https://img.shields.io/badge/language-Java-FC9147.svg)](https://www.oracle.com/java/)<br>`<br>
+`[![Java](https://img.shields.io/badge/language-Java-b87100.svg)](https://www.oracle.com/java/)<br>`<br>
 <br>
 
 HTML:<br>
-`[![HTML](https://img.shields.io/badge/language-HTML-red.svg)](https://www.w3.org/html/)<br>`<br>
+`[![HTML](https://img.shields.io/badge/language-HTML-f33900.svg)](https://www.w3.org/html/)<br>`<br>
 <br>
 
 BBCode:<br>
