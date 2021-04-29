@@ -1,5 +1,5 @@
 ## badgeUsed
-[![License: Unlicense](https://img.shields.io/badge/License-Unlicense-e0e0e0.svg)](http://unlicense.org/) Unlicense<br>
+[![License: Unlicense](https://img.shields.io/badge/License-Unlicense-e0e0e0)](http://unlicense.org/) Unlicense<br>
 本代码使用Unlicense（无许可）发布<br>
 注：代码中的链接所指向的所有地址都不包含在内。<br>
 
