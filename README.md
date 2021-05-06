@@ -3,7 +3,7 @@
 本代码使用Unlicense（无许可）发布<br>
 注：代码中的链接所指向的所有地址都不包含在内。<br>
 
-
+内容请移步到[List.md](https://github.com/Tinpa/badgesUsed/blob/main/List.md)文件<br>
 环境: Markdown<br>
 [![Markdown](https://img.shields.io/badge/language-Markdown-black.svg)](https://daringfireball.net/projects/markdown/)<br>
 
