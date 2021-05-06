@@ -23,7 +23,7 @@
 
 * [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) GPL v3<br>
 
-* [![Do-What-The-Fuck-You-Want-To-Public-License](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)](http://www.wtfpl.net/) WTFPL<br>
+* [![Do-What-The-Fuck-You-Want-To-Public-License](https://img.shields.io/badge/License-WTFPL-black.svg)](http://www.wtfpl.net/) or [![Do-What-The-Fuck-You-Want-To-Public-License](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)](http://www.wtfpl.net/) WTFPL<br>
 
 * [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) MIT<br>
 
@@ -78,6 +78,8 @@ GPL v3:<br>
 
 WTFPL:<br>
 `* [![Do-What-The-Fuck-You-Want-To-Public-License](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)](http://www.wtfpl.net/)<br>`
+<br>
+`[![Do-What-The-Fuck-You-Want-To-Public-License](https://img.shields.io/badge/License-WTFPL-black.svg)](http://www.wtfpl.net/)`
 <br>
 
 MIT:<br>
