@@ -6,6 +6,7 @@
 内容请移步到[List.md](https://github.com/Tinpa/badgesUsed/blob/main/List.md)文件<br>
 环境: Markdown<br>
 [![Markdown](https://img.shields.io/badge/language-Markdown-black.svg)](https://daringfireball.net/projects/markdown/)<br>
+和外面别人用的badge不一样，当然如果该badge的指向页面有提供的也会放出来
 
 ****
 
