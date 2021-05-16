@@ -16,6 +16,8 @@
 
 * [![Markdown](https://img.shields.io/badge/language-Markdown-black.svg)](https://daringfireball.net/projects/markdown/) Markdown<br>
 
+* [![Solidity](https://img.shields.io/badge/language-Solidity-AA6746.svg)](https://github.com/ethereum/solidity) Solidity<br>
+
 * ......
 
 ## License
@@ -67,6 +69,9 @@ Markdown:<br>
 `[![Markdown](https://img.shields.io/badge/language-Markdown-black.svg)](https://daringfireball.net/projects/markdown/)<br>`
 <br>
 
+Solidity:<br>
+`[![Solidity](https://img.shields.io/badge/language-Solidity-AA6746.svg)](https://github.com/ethereum/solidity) Solidity<br>`
+<br>
 
 <br>
 <br>
