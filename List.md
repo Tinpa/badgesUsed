@@ -20,6 +20,8 @@
 
 * [![RTF](https://img.shields.io/badge/language-RTF-ccc.svg)](http://download.microsoft.com/download/5/d/d/5dd33fdf-91f5-496d-9884-0a0b0ee698bb/%5BMS-OXRTFEX%5D.pdf) RTF<br>
 
+* ![TXT](https://img.shields.io/badge/language-TXT-2D60A6.svg) TXT<br>
+
 * ......
 
 ## License
@@ -33,7 +35,7 @@
 
 * [![License: Unlicense](https://img.shields.io/badge/License-Unlicense-e0e0e0.svg)](http://unlicense.org/) Unlicense<br>
 
-* [![License: GPL v3](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode) Attribution-NonCommercial 4.0<br>
+* [![CC BY-NC](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode) Attribution-NonCommercial 4.0<br>
 
 * ......
 
@@ -81,6 +83,10 @@ RTF:<br>
 `[![RTF](https://img.shields.io/badge/language-RTF-ccc.svg)](http://download.microsoft.com/download/5/d/d/5dd33fdf-91f5-496d-9884-0a0b0ee698bb/%5BMS-OXRTFEX%5D.pdf)<br>`
 <br>
 
+TXT:<br>
+`![TXT](https://img.shields.io/badge/language-TXT-2D60A6.svg) TXT<br>`
+<br>
+
 <br>
 <br>
 <br>
@@ -104,7 +110,7 @@ Unlicense:<br>
 <br>
 
 Attribution-NonCommercial 4.0:<br>
-`[![License: GPL v3](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)<br>`
+`[![CC BY-NC](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)<br>`
 
 <br>
 <br>
