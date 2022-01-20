@@ -84,7 +84,7 @@ RTF:<br>
 <br>
 
 TXT:<br>
-`![TXT](https://img.shields.io/badge/language-TXT-2D60A6.svg) TXT<br>`
+`![TXT](https://img.shields.io/badge/language-TXT-2D60A6.svg)<br>`
 <br>
 
 <br>
