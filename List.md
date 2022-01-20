@@ -33,6 +33,8 @@
 
 * [![License: Unlicense](https://img.shields.io/badge/License-Unlicense-e0e0e0.svg)](http://unlicense.org/) Unlicense<br>
 
+* [![License: GPL v3](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode) Attribution-NonCommercial 4.0<br>
+
 * ......
 
 ## Others
@@ -99,8 +101,10 @@ MIT:<br>
 
 Unlicense:<br>
 `[![License: Unlicense](https://img.shields.io/badge/License-Unlicense-e0e0e0.svg)](http://unlicense.org/)<br>`
+<br>
 
-
+Attribution-NonCommercial 4.0:<br>
+`[![License: GPL v3](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)<br>`
 
 <br>
 <br>
