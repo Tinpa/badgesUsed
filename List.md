@@ -24,8 +24,8 @@
 `[![RTF](https://img.shields.io/badge/language-RTF-ccc.svg)](http://download.microsoft.com/download/5/d/d/5dd33fdf-91f5-496d-9884-0a0b0ee698bb/%5BMS-OXRTFEX%5D.pdf)<br>`
 * ![TXT](https://img.shields.io/badge/language-TXT-2D60A6.svg) TXT<br>
 `![TXT](https://img.shields.io/badge/language-TXT-2D60A6.svg)<br>`
-* ![Python3](https://img.shields.io/badge/language-python_3-blue.svg) Python 3<br>
-`![Python3](https://img.shields.io/badge/language-python_3-blue.svg)<br>`
+* [![Python3](https://img.shields.io/badge/language-Python_3-blue.svg)](https://www.python.org/) Python 3<br>
+`[![Python3](https://img.shields.io/badge/language-Python_3-blue.svg)](https://www.python.org/)<br>`
 * ......
 
 ## License
