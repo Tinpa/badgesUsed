@@ -39,9 +39,13 @@
 `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br>`
 * [![License: Unlicense](https://img.shields.io/badge/License-Unlicense-e0e0e0.svg)](http://unlicense.org/) Unlicense<br>
 `[![License: Unlicense](https://img.shields.io/badge/License-Unlicense-e0e0e0.svg)](http://unlicense.org/)<br>`
-* [![CC BY-NC](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode) Attribution-NonCommercial 4.0<br>
+* [![CC BY-NC](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode) or [![CC BY-NC](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/legalcode) Attribution-NonCommercial 4.0<br>
 `[![CC BY-NC](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)<br>`
+* [![CC BY](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/legalcode) or [![CC BY-NC](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/legalcode) Attribution 4.0<br>
+`[![CC BY-NC](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/legalcode)<br>`
 * ......
+
+
 
 ## Others
 * [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=6f3d1e)](https://github.com/trekhleb/state-of-the-art-shitcode)<br>
